@@ -36,7 +36,7 @@ The primary objectives of this project were to:
 10. Develop security design documentation and a corporate computer and acceptable use policy, including guidelines for responsible AI usage.
 11. Test and document network connectivity, system configurations, and security implementations.
 
-12. ## 3. Network Architecture and Design
+## 3. Network Architecture and Design
 
 The network infrastructure was designed to represent a simulated enterprise environment for ULTA Beauty. The organization was divided into five departments, each assigned a separate network segment to support departmental organization and traffic separation.
 
